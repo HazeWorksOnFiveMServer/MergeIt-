@@ -1,0 +1,6 @@
+
+name: MergeIt
+version: 1.0
+main: com.haze47.mergeit.MergeItPlugin
+api-version: 1.21
+description: Automatically merges raw ores, redstone, lapis lazuli, etc., into block variants when "mergeit!" is in the player's inventory.
